@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-tours",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Tours Métropole Open Data (data.tours-metropole.fr) — OpenDataSoft MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "data-tours",
     "gatewaySlug": "data-tours",
-    "sourceHash": "v1-086304f614db932220b03526f832f5907146023b421504368561d185b3c6ee1e",
-    "sourceCommit": "0b3faaa4d85299a961dd86dea75a0f0e1dad280c"
+    "sourceHash": "v1-848d2945175bb372b29f7b5603d6222705c69c134e0a2552925c18e89f0f3f06",
+    "sourceCommit": "5ce1a05186d46479e23865c66bdb8579d8de445e"
   }
 }
